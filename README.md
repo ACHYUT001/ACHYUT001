@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning more about LLM and its applications in audio space.
 <!--
 **ACHYUT001/ACHYUT001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Todoist Stats
+<!-- # Todoist Stats -->
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
